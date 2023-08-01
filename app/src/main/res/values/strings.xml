@@ -4,8 +4,10 @@
 
     <!-- Home page strings -->
     <string name="home_page_greeting">Welcome to UW León Center!</string>
-    <string name="navigation_button_text">Navigation</string>
-    <string name="about_leon_button_text">About León</string>
+    <string name="testimonials_content_description">Testimonials</string>
+    <string name="news_content_description">News</string>
+    <string name="preflight_content_description">Preflight Checklist</string>
+    <string name="scholarships_content_description">Scholarships</string>
 
 
     <!-- Navigation page strings -->
